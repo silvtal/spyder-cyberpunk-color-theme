@@ -47,6 +47,9 @@ A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder
    cyberpunk_purpleblue/name = cyberpunk_purpleblue
    ```
 5) Pick the theme in _Tools > Preferences > Syntax Coloring_
+
+You can also make a custom theme manually:
+
 ![](https://i.imgur.com/euZ15kd.png)
 
 
