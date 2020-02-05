@@ -1,7 +1,13 @@
 # spyder-cyberpunk-color-theme
 A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder 
 
+## Screenshots
+
+![](https://i.imgur.com/6JyFeV3.png)
+![](https://i.imgur.com/g3Ddqys.png)
+
 ## How to install
+
 1) Look for your _spyder.ini_ file. Mine was at _~/.config/spyder-py3_ folder.
 2) In this file, look for the ```[color_schemes]``` section.
 3) At this section, add the theme name to the ```names``` list:
@@ -41,7 +47,6 @@ A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder
    cyberpunk_purpleblue/name = cyberpunk_purpleblue
    ```
 5) Pick the theme in _Tools > Preferences > Syntax Coloring_
+![](https://i.imgur.com/euZ15kd.png)
 
-## Screenshots
-![](https://i.imgur.com/6JyFeV3.png)
-![](https://i.imgur.com/g3Ddqys.png)
+
