@@ -28,8 +28,8 @@ A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder
    cyberpunk_purpleblue/occurrence = #423f4f
    cyberpunk_purpleblue/ctrlclick = #204a87
    cyberpunk_purpleblue/sideareas = #09162f
-   cyberpunk_purpleblue/matched_p = #688060
-   cyberpunk_purpleblue/unmatched_p = #bd6e76
+   cyberpunk_purpleblue/matched_p = #8ae234
+   cyberpunk_purpleblue/unmatched_p = #ef2929
    cyberpunk_purpleblue/normal = ('#bfbbcc', False, False)
    cyberpunk_purpleblue/keyword = ('#0abdc6', False, False)
    cyberpunk_purpleblue/builtin = ('#db38a3', False, False)
@@ -40,3 +40,8 @@ A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder
    cyberpunk_purpleblue/instance = ('#b56cad', False, True)
    cyberpunk_purpleblue/name = cyberpunk_purpleblue
    ```
+5) Pick the theme in _Tools > Preferences > Syntax Coloring_
+
+## Screenshots
+![](https://i.imgur.com/6JyFeV3.png)
+![](https://i.imgur.com/g3Ddqys.png)
