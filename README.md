@@ -1,5 +1,5 @@
 # spyder-cyberpunk-color-theme
-A good old purple+cyan cyberpunk theme for Python syntax coloring in Spyder 
+A simple purple+cyan cyberpunk theme for Python syntax coloring in Spyder 
 
 ## Screenshots
 
